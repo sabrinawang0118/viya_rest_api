@@ -1,10 +1,10 @@
 # username
-username = 'sawang'
-password = "Orion123"
+username = 'yourusername'
+password = "yourpassword"
 # Reference the following blog to configuring secrets
 # https://blogs.sas.com/content/sgf/2019/01/25/authentication-to-sas-viya/
-oAuthCliendId = 'wang'
-oAuthClientSecret = 'wang'
+oAuthCliendId = 'yourclientID'
+oAuthClientSecret = 'yourclientSecret'
 # build full API URL
 # seperate .py program
-base_url = 'http://viya.globalhls.sashq-d.openstack.sas.com/'
+base_url = 'http://yourviyaserver.com/'
