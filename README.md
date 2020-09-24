@@ -9,8 +9,7 @@ https://www.getpostman.com/collections/f8c72d20ca9a5a00ec18
 - to execute sas job, first configure environment variables: base_url, job_url, and if applicable, macro varaible 
 - you also need to set up your own authentication by editing the collection authentication
 
-### Additional example
-- a fileUpload request is included as additional reference; this is not needed for sasJob execution
+
 -----------------------------------------------------------------------------------------------------
 
 ## Prerequisites
