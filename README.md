@@ -3,13 +3,13 @@
 ## link to postman collection:
 https://www.getpostman.com/collections/f8c72d20ca9a5a00ec18
 
-### note:
+### Note:
 ### Import postman collection to your workspace
 - import this postman collection by selecting "import", and paste the link above
 - to execute sas job, first configure environment variables: base_url, job_url, and if applicable, macro varaible 
 - you also need to set up your own authentication by editing the collection authentication
 
-### additional example
+### Additional example
 - a fileUpload request is included as additional reference; this is not needed for sasJob execution
 -----------------------------------------------------------------------------------------------------
 
