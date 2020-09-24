@@ -8,3 +8,4 @@ oAuthClientSecret = 'yourclientSecret'
 # build full API URL
 # seperate .py program
 base_url = 'http://yourviyaserver.com/'
+job_url = 'http://yourviya_job_url.com'
